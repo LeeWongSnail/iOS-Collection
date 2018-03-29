@@ -16,7 +16,7 @@
 # iOS基础
 
 ## 计算机基础
-[Alibaba基础知识-笔试面试只是整理](https://hit-alibaba.github.io/interview/basic/)
+[Alibaba基础知识-笔试面试题整理](https://hit-alibaba.github.io/interview/basic/)
 
 [从NSArray看类簇](http://blog.sunnyxx.com/2014/12/18/class-cluster/)
 
