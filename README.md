@@ -146,7 +146,13 @@
 
 [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
 
+## Protobuf
 
+[protobuf在iOS中的使用](http://www.auu.space/2017/03/09/protobuf%E5%9C%A8iOS%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8/)
+
+[iOS中使用Protocol Buffers](http://blog.devzeng.com/blog/ios-protobuf.html)
+
+[Protocol Buffers for iOS](https://nixwang.com/2015/03/18/protocol-buffer-for-ios/)
 ## 证书申请
 
 ## APP审核
