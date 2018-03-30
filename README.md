@@ -63,7 +63,7 @@
 
 ## 线程
 
-# 设计模式
+# 接口设计(模块设计 解耦)
 
 [iOS 开发中的 Self-Manager 模式](http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/)
 
@@ -71,6 +71,7 @@
 
 [iOS架构设计解耦的尝试之VC逻辑AOP切割](https://juejin.im/post/5875e8e461ff4b006d5a6c60?utm_source=gold_browser_extension)
 
+[如何在 Objective-C 中实现协议扩展](https://draveness.me/protocol-extension)
 # iOS应用
 # 框架
 # 组件化
