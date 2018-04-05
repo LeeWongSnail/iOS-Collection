@@ -175,6 +175,10 @@
 
 [gitlab/github 多账户下设置 ssh keys](http://www.cnblogs.com/520yang/articles/4654601.html)
 
+## Fastlane
 
+[小团队的自动化发布－Fastlane带来的全自动化发布](https://whlsxl.github.io/)
+[Fastlane官方文档](https://docs.fastlane.tools/getting-started/ios/setup/)
+[AD_Fastlane - 一键打包 Xcode 项目上传至 App Store](https://juejin.im/entry/589b1ddf5c497d0056170e19)
 
 
